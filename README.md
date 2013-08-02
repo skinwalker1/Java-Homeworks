@@ -1,4 +1,4 @@
 Java-Homeworks
 ==============
 
-My Java homeworks.
+My Java for beginners homeworks
